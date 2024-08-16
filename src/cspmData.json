@@ -1,0 +1,115 @@
+[
+  {
+    "name": "CSPM",
+    "moreInformation": [
+      {
+        "name": "Cloud Accounts",
+        "data": [
+          {
+            "reason": "Cloud Account is not monitored",
+            "cost": "100"
+          },
+          {
+            "reason": "Cloud Account jfj fdk dfk",
+            "cost": "300"
+          },
+          {
+            "reason": "Cloud Account is dancing in the corner",
+            "cost": "300"
+          }
+        ]
+      },
+      {
+        "name": "Cloud Storage",
+        "data": [
+          {
+            "reason": "Cloud Storage is not monitored",
+            "cost": "100"
+          },
+          {
+            "reason": "Cloud Storage is dancing in the corner",
+            "cost": "300"
+          }
+        ]
+      },
+      {
+        "name": "Cloud Security Groups",
+        "data": [
+          {
+            "reason": "Cloud Security Groups is not monitored",
+            "cost": "100"
+          },
+          {
+            "reason": "Cloud Security Groups is dancing in the corner",
+            "cost": "300"
+          }
+        ]
+      },
+      {
+        "name": "Cloud Security Groups",
+        "data": [
+          {
+            "reason": "Cloud Security Groups is not monitored",
+            "cost": "100"
+          },
+          {
+            "reason": "Cloud Security Groups is dancing in the corner",
+            "cost": "300"
+          }
+        ]
+      },
+      {
+        "name": "Cloud Security Groups",
+        "data": [
+          {
+            "reason": "Cloud Security Groups is not monitored",
+            "cost": "100"
+          },
+          {
+            "reason": "Cloud Security Groups is dancing in the corner",
+            "cost": "300"
+          }
+        ]
+      },
+      {
+        "name": "Cloud Security Groups",
+        "data": [
+          {
+            "reason": "Cloud Security Groups is not monitored",
+            "cost": "100"
+          },
+          {
+            "reason": "Cloud Security Groups is dancing in the corner",
+            "cost": "300"
+          }
+        ]
+      },
+      {
+        "name": "Cloud Security Groups",
+        "data": [
+          {
+            "reason": "Cloud Security Groups is not monitored",
+            "cost": "100"
+          },
+          {
+            "reason": "Cloud Security Groups is dancing in the corner",
+            "cost": "300"
+          }
+        ]
+      },
+      {
+        "name": "Cloud Security Groups",
+        "data": [
+          {
+            "reason": "Cloud Security Groups is not monitored",
+            "cost": "100"
+          },
+          {
+            "reason": "Cloud Security Groups is dancing in the corner",
+            "cost": "300"
+          }
+        ]
+      }
+    ]
+  }
+]
