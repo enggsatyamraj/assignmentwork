@@ -27,13 +27,13 @@ A React application for managing and visualizing data using charts. This applica
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/your-username/assignmentwork.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```bash
-    cd your-repo-name
+    cd assignmentwork
     ```
 
 3. **Install dependencies**:
